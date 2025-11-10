@@ -13,3 +13,4 @@ https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard
 <br>
 Metric: Safety
 <br>
+An examination of the neighborhoods of Pittsburgh, measuring their safety through the amount of crimes, fires, and firearm seizures.
