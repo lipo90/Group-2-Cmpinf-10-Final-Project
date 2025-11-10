@@ -1,4 +1,5 @@
 # Group-2-Cmpinf-10-Final-Project
+## Team Procrastination
 
 Lilly Poon (lillypoon29@gmail.com):
 (https://data.wprdc.org/dataset/pbp-fire-arm-seizures)
